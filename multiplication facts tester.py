@@ -87,8 +87,8 @@ except ValueError:
     exit()
 
 
-low_step = 1     # lowest multiple being tested for
-high_step = 20   # highest multiple being tested for
+low_step = 3     # lowest multiple being tested for
+high_step = 9   # highest multiple being tested for
 num_questions = 10 
 
 multiplication_tester(facts_table,low_step,high_step,num_questions)
