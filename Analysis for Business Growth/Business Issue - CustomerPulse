@@ -1,0 +1,9 @@
+
+Business Issue: 
+
+The client, a bank, has 1,000 customers with 84 features derived from their financial spending and current financial standing. The bank's primary goal is to utilize this dataset to better understand customer behaviors, enabling them to deliver targeted offers that will increase customer engagement, reduce risk and ultimately drive business growth. By analyzing factors such as income, debt, spending habits, credit score and default history, the bank aims to optimize its marketing strategies and enhance its customer acquisition and retention efforts.
+
+Business Questions:
+1.	What are the spending patterns across different customer segments based on credit score? 
+2.	 What is the correlation between the presence of financial products (credit cards, mortgages, savings accounts) and customer spending habits?
+3.	How does the default rate vary with customer financial characteristics (e.g., income, debt, credit score, spending behavior)? 
